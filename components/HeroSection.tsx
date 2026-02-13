@@ -92,9 +92,9 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onAdminClick }) => {
             
             <div className="flex justify-between items-end mb-1">
               <div className="text-2xl font-display font-black text-white tracking-tighter">
-                11 <span className="text-gray-600 text-sm font-normal">/ 50</span>
+                47 <span className="text-gray-600 text-sm font-normal">/ 50</span>
               </div>
-              <div className="text-[10px] text-[#00ffff] font-mono mb-1">22% SECURED</div>
+              <div className="text-[10px] text-[#00ffff] font-mono mb-1">94% SECURED</div>
             </div>
             
             {/* Progress Bar */}
